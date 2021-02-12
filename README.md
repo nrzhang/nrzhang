@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a sophomore at Middlebury College majoring in Computer Science and minoring in Global Health.
+
+📫 nrzhang@middlebury.edu
+😄 she/her/hers
+
 <!--
 **nrzhang/nrzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
