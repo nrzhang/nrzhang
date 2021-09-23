@@ -6,7 +6,7 @@ I am a junior at Middlebury College majoring in Computer Science and minoring in
 
 😄 she/her/hers
 
-🌱 I’m currently learning web development skills 
+🌱 I’m currently taking Algorithms & Complexity and Computer Architecture
 
 <!--
 **nrzhang/nrzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
