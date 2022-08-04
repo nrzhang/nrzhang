@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I am a junior at Middlebury College majoring in Computer Science and minoring in Global Health.
+I am a senior at Middlebury College majoring in Computer Science and minoring in Global Health.
 
 📫 nrzhang@middlebury.edu
 
 😄 she/her/hers
 
-🌱 I’m currently taking Algorithms & Complexity and Computer Architecture
-
+🌱 I will be taking software development and informational visualization
 <!--
 **nrzhang/nrzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
